@@ -1,1 +1,1 @@
-https://github.com/SSJSEA/posmotri-v-okno-fd-new/tree/main
+https://github.com/SSJSEA/posmotri-v-okno-fd
