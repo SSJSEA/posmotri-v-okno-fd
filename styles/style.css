@@ -131,11 +131,7 @@ ol {
 }
 
 .content__list-item {
-  font-family:
-    Fira Sans Condensed,
-    Arial Narrow,
-    Helvetica Narrow,
-    sans-serif;
+  font-family:inherit;
   font-size: 18px;
 }
 
@@ -149,6 +145,7 @@ ol {
   min-width: 194px;
   height: 103px;
   object-fit: cover;
+  object-position: center;
 }
 
 .content__video-card-description-container {
@@ -161,11 +158,7 @@ ol {
 }
 
 .search-form__fieldset-title {
-  font-family:
-    Fira Sans Condensed,
-    Arial Narrow,
-    Helvetica Narrow,
-    sans-serif;
+  font-family:inherit;
   font-weight: 400;
   font-size: 18px;
 }
@@ -203,7 +196,7 @@ ol {
 .search-form__checkbox-list {
   display: flex;
   flex-direction: row;
-  gap: 23px;
+  gap: 15px;
 }
 
 .search-form__fieldset {
@@ -247,8 +240,8 @@ ol {
 
 .search-form__pseudo-checkbox {
   display: inline-block;
-  width: 15px;
-  height: 15px;
+  width: 19px;
+  height: 19px;
   border: 1px solid #fff;
   box-sizing: border-box;
   vertical-align: middle;
